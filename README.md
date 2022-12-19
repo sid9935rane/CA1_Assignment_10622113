@@ -10,3 +10,6 @@ In this Assignment  I had done the web scraping on Oyo Rooms Websites and store 
 7. Convert the DataFrame to Dictionary
 8. Create the Database and collection
 9. Insert the Data into the Database
+
+
+Video Link - https://drive.google.com/file/d/1fEIrPlYLb1OXBVk92_DGs-HEBzWYDpek/view?usp=sharing
